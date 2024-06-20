@@ -20,7 +20,7 @@ Este projeto envolve a criação de um cenário de rede virtual utilizando KVM e
 
 Topologia
 
-![image](https://github.com/zeraimundo/Mininet/assets/82219488/a7ce9350-f260-4ecc-8c44-a2f7efbf9b89)
+![Mininet (3)](https://github.com/zeraimundo/Mininet/assets/82219488/c1f0f541-d4f6-46bb-a91a-bb5c035aef0a)
 
 ## Configuração do Ambiente
 
