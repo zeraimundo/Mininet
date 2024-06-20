@@ -35,7 +35,10 @@ Topologia
 2. **Instalação do Mininet:**
     ```sh
     sudo apt-get update
-    sudo apt-get install mininet
+    sudo apt-get install git
+    git clone https://github.com/mininet/mininet
+    cd mininet/util/
+    ./install.sh -a
     ```
 
 3. **Configuração das VMs:**
